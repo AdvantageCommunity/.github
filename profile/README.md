@@ -34,3 +34,8 @@ Welcome to the Advantage Community, an open-source community that empowers begin
 
 **Submit a Pull Request:** Go to the original repository on GitHub and click on the "Pull Request" button. Provide a descriptive title and explanation of your changes. Once submitted, your pull request will be reviewed by the project maintainers.
 
+### Acknowledgments
+We would like to express our gratitude to all the contributors and members of the AdVantage Community. Your passion, dedication, and contributions are what make this community thrive.
+
+Thank you for being a part of the AdVantage Community! Happy contributing!
+
