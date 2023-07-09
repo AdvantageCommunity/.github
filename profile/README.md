@@ -3,7 +3,7 @@
 ## Advantage Community
 Welcome to the Advantage Community, an open-source community that empowers beginners to contribute to open-source projects. This is a place where people can collaborate on projects, share their work, and contribute to open-source initiatives. We offer a range of repositories covering AI, Software Development, and many more areas, all freely accessible and open for contributions.
 
-# Getting Started for Beginners
+## Getting Started for Beginners
 
 If you're new to our project, we're excited to have you onboard! Here are some simple steps to help you get started:
 
