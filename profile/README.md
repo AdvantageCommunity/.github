@@ -1,5 +1,4 @@
 
-<img src="[https://www.mend.io/blog/the-top-10-companies-contributing-to-open-source](https://www.mend.io/wp-content/media/2021/04/10-github-to-follow.jpg)" alt="Github"/>
 Welcome to the Advantage Community, an open-source community that empowers beginners to contribute to open-source projects. This is a place where people can collaborate on projects, share their work, and contribute to open-source initiatives. We offer a range of repositories covering AI, Software Development, and many more areas, all freely accessible and open for contributions.
 
 ## Getting Started for Beginners
