@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/AdvantageCommunity/.github/assets/96101829/fc30dd2b-d00f-46b2-b9e8-3554a8bb82d6" alt="Advantage Community Logo" width="570" height="300">
+  <img src="https://github.com/AdvantageCommunity/.github/assets/96101829/fc30dd2b-d00f-46b2-b9e8-3554a8bb82d6" alt="Advantage Community Logo" width="570">
 </div>
 
 # Welcome to the Advantage Community 🚀
